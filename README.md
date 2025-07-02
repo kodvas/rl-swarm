@@ -4,6 +4,7 @@ RL Swarm is a peer-to-peer system for reinforcement learning. It allows you to t
 
 Currently, we are running the [reasoning-gym](https://github.com/open-thought/reasoning-gym/tree/main) swarm on the Testnet. This swarm is designed to train models to solve a diverse set of reasoning tasks using the reasoning-gym dataset. The current list of default models includes:
 
+
 Models:
    - Gensyn/Qwen2.5-0.5B-Instruct
    - Qwen/Qwen3-0.6B
