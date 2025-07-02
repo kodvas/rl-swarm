@@ -6,11 +6,11 @@ This package provides an API and UI for displaying gossip messages and metrics a
 
 From the rl_swarm directory, use docker-compose to spin up containers for the webserver and OpenTelemetry.
 ```
-docker-compose build --no-cache
+docker compose build --no-cache
 ```
 
 ```
-docker-compose up
+docker compose up
 ```
 
 docker-compose sets the initial peer environment variable for you, so for local testing 
